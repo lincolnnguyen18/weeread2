@@ -1,0 +1,7 @@
+CaboCha.py
+CaboCha_wrap.cxx
+setup.py
+cabocha_python.egg-info/PKG-INFO
+cabocha_python.egg-info/SOURCES.txt
+cabocha_python.egg-info/dependency_links.txt
+cabocha_python.egg-info/top_level.txt

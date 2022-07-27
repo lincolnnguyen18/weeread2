@@ -1,0 +1,144 @@
+その他  Other
+アルファベット  Alphabet
+カ変・クル  Variable-kuru
+カ変・来ル  Variable-rairu
+ガル接続  Garu connection
+サ変・スル  Irregular conjugation (inflection, declension) - suru
+サ変・－スル  Irregular conjugation (inflection, declension) - suru
+サ変・－ズル  Irregular conjugation (inflection, declension) - zuru
+サ変接続  Irregular conjugation (inflection, declension) connection
+ナイ形容詞語幹  Nai adjective stem
+フィラー  Filler
+ラ変  Irregular conjugation (inflection, declension) of a limited number of verbs ending in "ru"
+一段  Ichidan verb group
+一段・クレル  Ichidan verb group - kureru
+一段・得ル  Ichidan verb group - eru
+一般  General
+上二・ダ行  Upper row (-i base form) - verb ending in "da"
+上二・ハ行  Upper row (-i base form) - verb ending in "ha"
+下二・カ行  Lower row (-e base form) - verb ending in "ka"
+下二・ガ行  Lower row (-e base form) - verb ending in "ga"
+下二・タ行  Lower row (-e base form) - verb ending in "ta"
+下二・ダ行  Lower row (-e base form) - verb ending in "da"
+下二・ハ行  Lower row (-e base form) - verb ending in "ha"
+下二・マ行  Lower row (-e base form) - verb ending in "ma"
+下二・得  Lower row (-e base form) - verb ending in "eru"
+不変化型  Indeclinable form
+並立助詞  Parallel marker
+五段・カ行イ音便  Godan - verb ending in "ku", euphonic sound change
+五段・カ行促音便  Godan - verb ending in "ku", nasal sound change
+五段・カ行促音便ユク  Godan - verb ending in "ku", nasal sound change Yuk
+五段・ガ行  Godan - verb ending in "gu"
+五段・サ行  Godan - verb ending in "su"
+五段・タ行  Godan - verb ending in "tsu"
+五段・ナ行  Godan - verb ending in "nu"
+五段・バ行  Godan - verb ending in "bu"
+五段・マ行  Godan - verb ending in "mu"
+五段・ラ行  Godan - verb ending in "ru"
+五段・ラ行アル  Godan - verb ending in "ru", aru
+五段・ラ行特殊  Godan - verb ending in "ru", Special
+五段・ワ行ウ音便  Godan - verb ending in "wa", euphonic change
+五段・ワ行促音便  Godan - verb ending in "wa", nasal sound change
+人名  Personal (person's) name
+代名詞  Pronoun
+仮定形  Hypothetical form
+仮定縮約１  Assumed contraction 1
+仮定縮約２  Assumed contraction 2
+体言接続  Substantive connection
+体言接続特殊  Substantive connection Special
+体言接続特殊２  Substantive connection Special 2
+係助詞  Dependency marker
+副助詞  Adverbial particle
+副助詞／並立助詞／終助詞  Adverbial particle / parallel marker / sentence-ending particle
+副詞  Adverb
+副詞化  "Adverbification"
+副詞可能  Potential adverb
+助動詞  Auxiliary verb
+助動詞語幹  Auxiliary verb stem
+助数詞  Counter suffix
+助詞  Particle
+助詞類接続  Particle type connection
+動詞  Verb
+動詞接続  Verb connection
+動詞非自立的  Verb not independent
+句点  Period
+名  Given name
+名詞  Noun
+名詞接続  Noun connection
+命令ｅ  Order e
+命令ｉ  Order i
+命令ｒｏ  Order ro
+命令ｙｏ  Order yo
+四段・サ行  Yodan - verb ending in "su"
+四段・タ行  Yodan - verb ending in "tsu"
+四段・ハ行  Yodan - verb ending in "hu or fu"
+四段・バ行  Yodan - verb ending in "bu"
+固有名詞  Proper noun
+国  Country
+地域  Area
+基本形  Basic form
+基本形-促音便  Basic form - nasal sound change
+姓  Surname
+引用  Quote
+引用文字列  Quoted string
+形容動詞語幹  Adjective verb stem
+形容詞  Adjective
+形容詞・アウオ段  Adjective - Auodan
+形容詞・イイ  Adjective - i
+形容詞・イ段  Adjective Idan
+形容詞接続  Adjective connection
+感動詞  Interjection
+括弧閉  Close Parenthesis
+括弧開  Open parenthesis
+接尾  Suffix
+接続助詞  Conjunctive particle
+接続詞  Conjunction
+接続詞的  Conjunction-like
+接頭詞  Prefix
+数  Number
+数接続  Number connection
+文語・キ  Literary language - ki
+文語・ケリ  Literary language - keri
+文語・ゴトシ  Literary language - gotoshi
+文語・ナリ  Literary language - nari
+文語・ベシ  Literary language - beshi
+文語・マジ  Literary language - maji
+文語・リ  Literary language - ri
+文語・ル  Literary language - ru
+文語基本形  Literary language, basic form
+未然ウ接続  "Before it happens" "u" connection
+未然ヌ接続  "Before it happens" "nu" connection
+未然レル接続  "Before it happens" "reru" connection
+未然形  Imperfective form
+未然特殊  "Before it happens" Special
+格助詞  Case particle
+特殊  Special
+特殊・ジャ  Special - Jiya
+特殊・タ  Special - ta
+特殊・タイ  Special - tai
+特殊・ダ  Special - da
+特殊・デス  Special - desu
+特殊・ナイ  Special - nai
+特殊・ヌ  Special - nu
+特殊・マス  Special - masu
+特殊・ヤ  Special - ya
+現代基本形  Modern basic form
+空白  Blank
+終助詞  Sentence-ending particle
+組織  Organization
+縮約  Contraction
+自立  Independent
+記号  Symbol
+読点  Comma
+連体化  "Pre-noun adjectival"-like
+連体詞  Pre-noun adjectival
+連用ゴザイ接続  Continuous use "gosai" connection
+連用タ接続  Continuous use "ta" connection
+連用テ接続  Continuous use "te" connection
+連用デ接続  Continuous use "de" connection
+連用ニ接続  Continuous use "ni" connection
+連用形  Conjunctive form
+連語  Collocation
+間投  Interjection
+非自立  Not independent
+音便基本形  Euphonic basic form

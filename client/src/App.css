@@ -1,0 +1,188 @@
+/* App */
+#appContainer {
+  display: block;
+  justify-content: center;
+}
+
+/* StatusAccordian */
+.statusAccordionContainer {
+  max-width: 500px;
+}
+.heading {
+  flex-shrink: 0;
+  flex-basis: 50%;
+}
+.subheading {
+  color: #a9a9a9;
+}
+
+/* Form */
+#form {
+  margin-top: 50px;
+  max-width: 700px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#formSub {
+  display: flex;
+  flex-direction: column;
+  margin: 1em;
+  margin-bottom: 0;
+}
+
+#analyzeButton {
+  align-self: center;
+  margin: 1em;
+}
+
+/* Read */
+#readContainer {
+  max-width: 700px;
+  margin: auto;
+  padding: 0 1em;
+  overflow-wrap: break-word;
+}
+
+/* @media only screen and (max-width: 600px) {
+  .tooltip .tool2tip2 {
+    font-size: 3em;
+  }
+} */
+
+.tooltip, .tooltip2 {
+  font-size: 1.2em;
+}
+
+@media only screen and (max-width: 600px) {
+  .tooltip, .tooltip2 {
+    font-size: 1em;
+  }
+}
+
+.tooltip {
+  width: fit-content;
+  margin-right: 0.3em;
+  /* font-size: 1.2em; */
+  word-break: break-word;
+  position: relative;
+  display: inline-flex;
+  align-items: baseline;
+  margin-bottom: 0.2em;
+  text-decoration: none;
+  color: black;
+}
+.tooltip:active {
+  color: blue;
+}
+.tooltip:after {
+  position: absolute;
+  bottom: 0.1em;
+  width: 100%;
+  border-bottom: solid 1px #bdbdbd;;
+  content: '';
+}
+.tooltip:hover:after {
+  border-color: blue!important;
+}
+.tooltip2 {
+  width: fit-content;
+  text-decoration: none;
+  margin-right: 0.2em;
+  /* font-size: 1.2em; */
+  display: inline-flex;
+  word-break: break-word;
+  line-height: 1.6em;
+  /* margin-top: 0.2em; */
+  /* margin-bottom: 1.6em; */
+  /* line-height: 1.7em; */
+}
+.disabled-tooltip {
+  width: fit-content;
+  font-size: 1.25em;
+  display: block;
+  margin: 1em 0;
+  word-break: break-word;
+}
+.tooltip:hover {
+  cursor: pointer;
+}
+.MuiTooltip-popper {
+  white-space: pre-line;
+  font-size: 0.9em;
+}
+
+.MuiTooltip-popper > div {
+  font-size: 0.9em;
+}
+
+#pos {
+  margin: 0;
+  margin-top: 0.6em;
+  font-size: 0.9em;
+}
+@media only screen and (max-width: 600px) {
+  #pos {
+    font-size: 0.8em;
+  }
+}
+
+.selected {
+  color: blue;
+}
+.tooltip:hover {
+  color: blue;
+}
+.rikaiButton {
+  transition: 0.3s!important;
+  opacity: 0.03;
+  transition: 0.3s!important;
+  padding: 0px!important;
+  margin: 0!important;
+  margin-bottom: 7px!important;
+}
+.rikaiButton:hover {
+  opacity: 1;
+}
+
+.rikai-chars:hover {
+  cursor: pointer;
+}
+.rikai-char:hover {
+  color: blue;
+}
+.rikai-highlight {
+  color: blue;
+}
+.rikai-highlight:after {
+  border-color: blue!important;
+}
+.rikai-highlight2 {
+  color: blue;
+  border-bottom: 1px solid blue;
+}
+.rikai-chars-scrollbox {
+  max-height: 25vh;
+  overflow: scroll;
+}
+
+/* .dragDialog {
+  cursor: grab;
+} */
+.MuiDialog-paperWidthSm {
+  width: 600px!important;
+}
+.MuiDialog-paperScrollPaper {
+  height: calc(100% - 64px)!important;
+}
+.dialogContent {
+  font-size: 1.25rem;
+}
+.label {
+  color: darkorange;
+  font-size: 0.9rem;
+  vertical-align: text-top;
+}
+.definitions {
+  font-size: 1rem;
+}
